@@ -461,7 +461,7 @@ SENSOR_TYPES = {
                       TYPE_SENSOR, DEVICE_CLASS_TEMPERATURE,
                       "mdi:thermometer", 0, STATE_CLASS_MEASUREMENT),
     TYPE_SOLARRADIATION: ("Solar Radiation", f"{POWER_WATT}/m^2",
-                          TYPE_SENSOR, DEVICE_CLASS_ILLUMINANCE,
+                          TYPE_SENSOR, DEVICE_CLASS_IRRADIANCE,
                           "mdi:weather-sunny", 0, STATE_CLASS_MEASUREMENT),
     TYPE_UV: ("UV Index", UV_INDEX,
               TYPE_SENSOR, None, "mdi:sunglasses", 0, STATE_CLASS_MEASUREMENT),
