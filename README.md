@@ -3,6 +3,13 @@
 # Ecowitt Weather Station integration for home-assistant FORKED by Tristan
 Ecowitt driver for homeassistant
 
+-------
+-------
+    Since Home Assistant 2023.5 Ecowitt is now part of Home Assistant Core. No need for this repro any more!!!
+    Please use Core-Integration: https://www.home-assistant.io/integrations/ecowitt/
+-------
+-------
+
 ![Bling](https://raw.githubusercontent.com/garbled1/homeassistant_ecowitt/master/md.images/overview.png)
 
 ## Configuration:
